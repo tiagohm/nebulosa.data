@@ -1,0 +1,5 @@
+*.dll           binary
+*.so            binary
+
+*.txt           text eol=lf
+*.md            text eol=lf
