@@ -1,6 +1,8 @@
 *.dll           binary
 *.so            binary
 *.dat           binary
+*.fits          binary
+*.fit           binary
 
 *.txt           text eol=lf
 *.md            text eol=lf
