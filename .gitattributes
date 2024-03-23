@@ -3,6 +3,7 @@
 *.dat           binary
 *.fits          binary
 *.fit           binary
+*.xisf          binary
 
 *.txt           text eol=lf
 *.md            text eol=lf
