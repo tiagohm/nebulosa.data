@@ -4,6 +4,7 @@
 *.fits          binary
 *.fit           binary
 *.xisf          binary
+*.7z            binary
 
 *.txt           text eol=lf
 *.md            text eol=lf
